@@ -3,4 +3,4 @@
 #que tienen el nombre.
 Nombre = input('¿Cuál es tu nombre?')
 Nombre_Mayusculas = Nombre.upper()
-print('Nombre tiene', len(Nombre_Mayusculas),'letras')
+print( Nombre_Mayusculas, 'tiene', len(Nombre_Mayusculas),'letras')
